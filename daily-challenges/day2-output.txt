@@ -1,0 +1,8 @@
+../index.html
+../iyf-s12-week-02-JosphineMoraa/index.html
+../iyf-s12-week-02-JosphineMoraa/portofolio/about.html
+../iyf-s12-week-02-JosphineMoraa/portofolio/box-model-practice.html
+../iyf-s12-week-02-JosphineMoraa/portofolio/projects.html
+../portofolio/about.html
+../portofolio/box-model-practice.html
+../portofolio/projects.html

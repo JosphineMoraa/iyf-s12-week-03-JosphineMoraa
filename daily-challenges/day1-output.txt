@@ -1,0 +1,10 @@
+day1-demo:
+css/
+images/
+js/
+
+day1-demo/css:
+
+day1-demo/images:
+
+day1-demo/js:

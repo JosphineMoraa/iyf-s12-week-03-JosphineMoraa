@@ -1,0 +1,14 @@
+../index.html:6:  <title>Josphine Moraa | Portfolio</title>
+../index.html:23:      <h1>Welcome to My Portfolio</h1>
+../iyf-s12-week-02-JosphineMoraa/index.html:6:  <title>Josphine Moraa | Portfolio</title>
+../iyf-s12-week-02-JosphineMoraa/index.html:23:      <h1>Welcome to My Portfolio</h1>
+../iyf-s12-week-02-JosphineMoraa/portofolio/projects.html:6:  <title>My Portfolio</title>
+../iyf-s12-week-02-JosphineMoraa/portofolio/projects.html:20:  <h1>Welcome to My Portfolio</h1>
+../iyf-s12-week-02-JosphineMoraa/portofolio/projects.html:35:    <h2>My Portfolio</h2>
+../iyf-s12-week-02-JosphineMoraa/portofolio/README.md:1:# Week 02 CSS Mastery Portfolio
+../iyf-s12-week-02-JosphineMoraa/README.md:1:# Week 2: Responsive Portfolio Website
+../iyf-s12-week-02-JosphineMoraa/README.md:13:- Portfolio images and hover styling.
+../portofolio/projects.html:6:  <title>My Portfolio</title>
+../portofolio/projects.html:20:  <h1>Welcome to My Portfolio</h1>
+../portofolio/projects.html:35:    <h2>My Portfolio</h2>
+../README.md:1:# Josphine Moraa — Week 3 Portfolio
