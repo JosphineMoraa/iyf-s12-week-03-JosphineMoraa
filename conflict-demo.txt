@@ -1,1 +1,1 @@
-Favourite command: ls
+Favourite command: mkdir
