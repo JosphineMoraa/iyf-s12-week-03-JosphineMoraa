@@ -4,7 +4,7 @@ This is my portfolio website, carried forward from Week 2 and used for Week 3 co
 
 ## Live Demo
 
-[View Live Site](https://josphinemoraa.github.io/iyf-s12-week-03-JosphineMoraa/
+[View Live Site](https://josphinemoraa.github.io/iyf-s12-week-03-JosphineMoraa/)
 
 ## Pages
 
