@@ -2,6 +2,10 @@
 
 This is my portfolio website, carried forward from Week 2 and used for Week 3 command-line and Git workflow practice.
 
+## Live Demo
+
+[View Live Site](https://josphinemoraa.github.io/iyf-s12-week-03-JosphineMoraa/)
+
 ## Pages
 
 - Home (`index.html`)
@@ -23,5 +27,3 @@ Open `index.html` in a web browser. Keep the `portofolio` folder beside it so th
 - Practice command-line navigation and file operations.
 - Build a clear Git history with meaningful commits.
 - Update the portfolio README and publish the Week 3 version.
-
-The Week 3 deployment link will be added after publishing.
