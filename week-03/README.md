@@ -6,6 +6,7 @@ Use this workspace for the command-line and Git/GitHub lessons and their daily c
 
 - [Lesson 5: Command Line Essentials](lesson-05-command-line/README.md)
 - [Lesson 6: Git & GitHub Mastery](lesson-06-git-github/README.md)
+- [Git workflow notes](git-workflow-notes.md)
 
 ## Daily challenges
 

@@ -10,6 +10,12 @@ From PowerShell, run:
 .\new-project.ps1
 ```
 
+From Git Bash or another Bash shell, run:
+
+```bash
+bash ./new-project.sh
+```
+
 The script creates a `starter-project` folder containing:
 
 ```text
@@ -28,4 +34,8 @@ Choose another destination by passing a path:
 .\new-project.ps1 -ProjectPath .\my-portfolio
 ```
 
-The script stops with an error if the destination already exists, so it won't overwrite an existing project. Open `index.html` in a browser and customize the starter page.
+```bash
+bash ./new-project.sh ./my-portfolio
+```
+
+Both scripts stop with an error if the destination already exists, so they won't overwrite an existing project. Open `index.html` in a browser and customize the starter page.
